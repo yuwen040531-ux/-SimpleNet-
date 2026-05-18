@@ -17,11 +17,11 @@
 ├── test_mvtec.py      # MVTec AD 数据集测试脚本
 └── utils.py           # 工具函数
 ```
-##项目声明
--项目名称： 基于 SimpleNet 的无监督图像异常检测算法设计与实现
--项目作者： 曾宇雯
--作者单位： 暨南大学网络空间安全学院
--开发语言： Python
--核心模型： SimpleNet-CBAM-PatchGuard
--核心技术： 无监督异常检测、SimpleNet、CBAM 注意力机制、PatchGuard 鲁棒约束、多尺度特征融合、双通道伪异常生成
--项目用途： 本科毕业设计成果展示、学术交流与学习参考
+## 项目声明
+- 项目名称： 基于 SimpleNet 的无监督图像异常检测算法设计与实现
+- 项目作者： 曾宇雯
+- 作者单位： 暨南大学网络空间安全学院
+- 开发语言： Python
+- 核心模型： SimpleNet-CBAM-PatchGuard
+- 核心技术： 无监督异常检测、SimpleNet、CBAM 注意力机制、PatchGuard 鲁棒约束、多尺度特征融合、双通道伪异常生成
+- 项目用途： 本科毕业设计成果展示、学术交流与学习参考
